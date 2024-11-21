@@ -221,4 +221,3 @@ dependencies:
       - xyzservices==2024.9.0
       - yarl==1.11.1
       - zss==1.2.0
-prefix: C:\Users\amartya\miniconda3\envs\mlc
